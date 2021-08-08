@@ -71,3 +71,7 @@ ro.spark.device.name=Redmi 7
 ro.spark.group.url=https://t.me/sparkredmi7
 ro.spark.maintainer=Ram Badan Pandey
 ro.spark.maintainer.username=MrTechnoStart
+
+# Notch Overlay
+ro.miui.notch=1
+
