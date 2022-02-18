@@ -76,3 +76,5 @@ ro.spark.maintainer.username=MrTechnoStart
 # Notch Overlay
 ro.miui.notch=1
 
+# System
+persist.sys.binary_xml=false
